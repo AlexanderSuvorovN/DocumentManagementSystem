@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#dddddd"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="227.49807"
+     inkscape:cy="106.01013"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="image"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13332)"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <image
+       sodipodi:absref="C:\alex\apps\apache24\htdocs\dms\favicon.png"
+       y="263.13333"
+       x="-8.5058593e-007"
+       id="image823"
+       xlink:href="file:///C:/alex/apps/apache24/htdocs/dms/favicon.png"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="33.866669"
+       width="33.866669" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="vector"
+     style="opacity:1">
+    <rect
+       style="opacity:1;fill:#e52104;fill-opacity:1;stroke:none;stroke-width:0.35175726;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:94.91924286;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect829"
+       width="33.866669"
+       height="26.458334"
+       x="-1.3877788e-017"
+       y="4.2333331"
+       ry="3.8425913"
+       rx="3.9215031" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27095467;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:94.91924286;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 5.2444201,10.97299 6.3986149,9.5079898 8.1517714,8.4433323 25.148102,8.467338 l 2.467423,1.3316178 0.944725,1.6654012 -0.0045,2.390504 -2.104748,-0.06682 -0.564423,-2.254213 -1.331097,-0.101994 -15.7125368,-0.03011 -0.886854,1.1515 0.072235,2.677432 1.5310934,0.801403 16.6259614,0.08905 2.405734,2.058383 -0.161263,6.184231 -1.644763,2.037917 H 7.31572 L 6.0264357,25.669372 5.2443811,24.311781 v -3.140416 l 2.1715649,-0.03341 0.4361364,2.658351 0.8538486,0.439577 16.732888,0.09873 0.758414,-1.226642 0.203093,-3.004831 -0.834161,-0.971091 -18.1506651,-0.02978 -2.2183888,-2.485123 z"
+       id="rect833"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
